@@ -32,7 +32,7 @@ class ViewController: UIViewController {
 ``` | ```Swift
 struct ContentView: View {
     var body: some View {
-        Button("Button pressed!") {
+        Button("Press me") {
         	print("Button pressed!")
         }
     }
