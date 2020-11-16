@@ -19,6 +19,64 @@ Vegetables | Fruits | Grains
 `Broccoli` | [Bananas](https://google.com) | **_`Wheat`_**
 **`Lettuce`** | [`Peaches`](https://google.com) | [**`Barley`**](https://google.com)
 
+## Plain Markdown Table with Code?
+
+UIKit | SwiftUI
+--- | ---
+```Swift
+class ViewController: UIViewController {
+    @IBAction func buttonPressed(_ sender: Any) {
+       	print("Button pressed!")
+    }
+}
+``` | ```Swift
+struct ContentView: View {
+    var body: some View {
+        Button("Button pressed!") {
+        	print("Button pressed!")
+        }
+    }
+}
+```
+
+## HTML Table with Code
+
+<table>
+	<tr>
+    	<th>
+        	UIKit
+        </th>
+        <th>
+        	SwiftUI
+        </th>
+    </tr>
+	<tr>
+<td>
+        
+```Swift
+class ViewController: UIViewController {
+    @IBAction func buttonPressed(_ sender: Any) {
+       	print("Button pressed!")
+    }
+}
+```
+
+</td>
+<td>
+       
+```Swift
+struct ContentView: View {
+    var body: some View {
+        Button("Button pressed!") {
+        	print("Button pressed!")
+        }
+    }
+}
+```
+</td>
+</tr>
+</table>
+
 ## Plain Markdown Table with Images
 
 Vegetables | Fruits | Grains
