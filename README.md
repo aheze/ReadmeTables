@@ -3,6 +3,9 @@ Tables don't need to be boring
 
 ## Plain Markdown Table
 
-First Column | Second Column | Third Column
+Vegetables | Fruits | Grains
 :--- | :---: | ---:
-Hey! | Hi | Sup
+Potatos | Apples | Oats
+Corn | Oranges | Rice
+Broccoli | Bananas | Wheat
+Lettuce | Peaches | Buckwheat
