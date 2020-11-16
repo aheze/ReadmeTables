@@ -10,6 +10,15 @@ Corn | Oranges | Rice
 Broccoli | Bananas | Wheat
 Lettuce | Peaches | Barley
 
+## Plain Markdown Table with Styling
+
+Vegetables | Fruits | Grains
+:--- | :---: | ---:
+*Potatos* | **Apples** | ~Oats~
+**_Corn_** | Oranges | **~Rice~**
+`Broccoli` | [Bananas](https://google.com) | **_`Wheat`_**
+**`Lettuce`** | [`Peaches`](https://google.com) | [**`Barley`**](https://google.com)
+
 ## Plain Markdown Table with Images
 
 Vegetables | Fruits | Grains
